@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Eduardo Brito"
+title                    : "Eduardo Brito - The Pretty Honest Developer"
 title_separator          : "-"
 name                     : &name "Eduardo Brito"
 description              : &description "CEO of Nabia Studios"
@@ -22,9 +22,9 @@ repository               : "edbrito-swdev/edbrito-swdev.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "edbrito"
+  name             : "Eduardo Brito"
   pronouns         : "He/Him" # example: "she/her"  
-  bio              : "Used to work as a Senior Software Developer and now I'm migrating to Gamedev."
+  bio              : "Used to work as a Senior Software Developer and now I'm dedicating myself to building a Game/Music/Art Studio. I also work on promoting events related to games and arts."
   location         : "Braga, Portugal"
   employer         : "Nabia Studios"
   uri              : # URL
@@ -62,15 +62,16 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : ragingbass2020 # Username
-  steam            : # Username
+  steam            : ragingbass2020 # Username
   telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  tumblr           : ragingbass2020 # Username
+  twitter          : ragingbass2020 # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : ragingbass2020 # Username
+  bandcamp         : ragingbass2020
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
@@ -215,10 +216,10 @@ collections:
   # publications:
   #   output: true
   #   permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  # talks:
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # # talks:
   #   output: true
   #   permalink: /:collection/:path/
 
@@ -262,14 +263,14 @@ defaults:
   #     share: true
   #     comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   # - scope:
   #     path: ""
@@ -300,6 +301,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
