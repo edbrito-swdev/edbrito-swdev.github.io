@@ -9,6 +9,8 @@ redirect_from:
 
 Hello everyone! Welcome to my homepage! ![smiley](https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png)
 
+You can reach me [here on my email](mailto: edbrito.swdev@gmail.com)!
+
 In a world where social media is overflowing with influencers and content created to appease the **Gods of the Algorithm**&trade;, I wanted to carve out my own small space with more meaningful content, not constrained by the constant need to **produce** something. That's to say, I'm striving for quality over quantity.
 
 While I do use many of these platforms, I’m not the biggest fan of their cluttered nature and ever increasing need to cater to ever diminishing attention spans. That’s why I created this personal site — a place where you can easily find me outside the noise of the big social media platforms. You’ll still find links to my social media profiles for those who prefer them, but for sharing ideas and blogging, I believe a personal website offers a cleaner, more meaningful experience.
