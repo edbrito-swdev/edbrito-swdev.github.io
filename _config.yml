@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Eduardo Brito - The Pretty Honest Developer"
+title                    : "Eduardo Brito's Adventures in Game Development and Creativity"
 title_separator          : "-"
 name                     : &name "Eduardo Brito"
 description              : &description "CEO of Nabia Studios"
