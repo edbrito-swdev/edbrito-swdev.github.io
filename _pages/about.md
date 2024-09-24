@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pretty Honest Developer Articles (PHDA)"
+title: "Pretty Honest Developer Adventure (PHDA)"
 author_profile: true
 redirect_from: 
   - /about/
