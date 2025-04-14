@@ -14,9 +14,10 @@ redirect_from:
 
 Education
 ======
-* M.S.c in Digital Games Engineering, IPCA, 2023 - Ongoing
-* M.S.c in Informatics, University of Minho, 2010
-* B.S.c in Informatics Engineering, University of Minho, 2007
+* Masters in Media Arts, UMinho, 2024 - Ongoing
+* MEng in Digital Games Engineering, IPCA, 2023 - Ongoing
+* MSc in Informatics, University of Minho, 2010
+* BSc in Informatics Engineering, University of Minho, 2007
 
 Work experience
 ======

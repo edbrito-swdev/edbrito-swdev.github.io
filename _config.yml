@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Eduardo Brito"
   pronouns         : "He/Him" # example: "she/her"  
-  bio              : "Used to work as a Senior Software Developer and now I'm dedicating myself to building a Game/Music/Art Studio. I also work on promoting events related to games and arts."
+  bio              : "Used to work as a Senior Software Developer and now I'm dedicating myself to building a Creative Studio. I also work on promoting events related to games and arts."
   location         : "Braga, Portugal"
-  employer         : "Nabia Studios"
+  employer         : "Mind in Chaos"
   uri              : # URL
   email            : "info@edbrito.dev" 
 
@@ -263,15 +263,15 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comments: true
-  # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  #_portfolio
+  - scope:
+      path: "/portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   # - scope:
   #     path: ""
