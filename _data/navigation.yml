@@ -11,4 +11,12 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Work Log"
+    url: /work-log/
+
+
     
