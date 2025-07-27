@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pretty Honest Developer Articles (PHDA)"
+title: "Pretty Honest Developer Adventure (PHDA)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 Hello everyone! Welcome to my homepage! ![smiley](https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png)
+
+You can reach me [here on my email](mailto: edbrito.swdev@gmail.com)!
 
 In a world where social media is overflowing with influencers and content created to appease the **Gods of the Algorithm**&trade;, I wanted to carve out my own small space with more meaningful content, not constrained by the constant need to **produce** something. That's to say, I'm striving for quality over quantity.
 
