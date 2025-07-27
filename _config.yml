@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Eduardo Brito - The Pretty Honest Developer"
+title                    : "Eduardo da Silva Brito"
 title_separator          : "-"
 name                     : &name "Eduardo Brito"
-description              : &description "CEO of Nabia Studios"
+description              : &description "Founder of Mind in Chaos Creative Studios"
 url                      : https://edbrito.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edbrito-swdev/edbrito-swdev.github.io"
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : ragingbass2020 # Username
+  instagram        : dasilvabrito.arts # Username
   lastfm           : # Username
   linkedin         : edbrito-swdev # Username
   mastodon         : # URL
@@ -217,9 +217,9 @@ collections:
   # publications:
   #   output: true
   #   permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   # # talks:
   #   output: true
   #   permalink: /:collection/:path/

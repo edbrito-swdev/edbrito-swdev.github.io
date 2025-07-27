@@ -9,30 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF with my most up-to-date CV.](https://edbrito.dev/files/202408-CV.pdf)
+[Download PDF with my most up-to-date CV.](https://edbrito.dev/files/Latest-ArtCV.pdf)
 
 
 Education
 ======
-* Masters in Media Arts, UMinho, 2024 - Ongoing
-* MEng in Digital Games Engineering, IPCA, 2023 - Ongoing
-* MSc in Informatics, University of Minho, 2010
+* Masters in Media Arts, UMinho, 2024 - Ongoing (18/20)
+* MEng in Digital Games Engineering, IPCA, 2023 - Ongoing (18/20)
+* MSc in Informatics, University of Minho, 2010 (17/20)
 * BSc in Informatics Engineering, University of Minho, 2007
 
 Work experience
 ======
 
-TBD  
+ToDo  
 
 Skills
 ======
 
-TBD  
+ToDo 
 
 Publications
 ======
 
-TBD  
+ToDo 
 
 <!--  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -41,7 +41,7 @@ TBD
 Talks
 ======
 
-TBD  
+ToDo 
 
 <!--
   <ul>{% for post in site.talks reversed %}
@@ -52,7 +52,7 @@ TBD
 Teaching
 ======
 
-TBD  
+ToDo 
 
   <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -62,6 +62,6 @@ TBD
 Service and leadership
 ======
 
-TBD  
+ToDo 
 
 <!-- * Currently signed in to 43 different slack teams -->
